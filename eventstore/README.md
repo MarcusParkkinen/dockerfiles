@@ -1,6 +1,6 @@
 Repository for EventStore (geteventstore.com)
 
-1. Download and run the image `docker run -d -p 2113:2113 -p 1113:1113 adbrowne/eventstore`
+1. Download and run the image `docker run -d -p 2113:2113 -p 1113:1113 marcusparkkinen/eventstore`
 2. Open Docker and find the ip of your Virtual Box `docker-machine ls`
 ```
 NAME      ACTIVE   DRIVER       STATE     URL                         SWARM   ERRORS

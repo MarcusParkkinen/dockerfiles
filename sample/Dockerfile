@@ -3,6 +3,6 @@
 # VERSION               0.0.1
 
 FROM      ubuntu
-MAINTAINER Andrew Browne <brownie@brownie.com.au>
+MAINTAINER Marcus Parkkienn <marcus.parkkinen@squeed.com>
 
 RUN apt-get update && apt-get install -y curl openssh-server

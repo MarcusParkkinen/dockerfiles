@@ -3,7 +3,7 @@
 # VERSION               0.0.3
 
 FROM      ubuntu:14.04.2
-MAINTAINER Andrew Browne <brownie@brownie.com.au>
+MAINTAINER Marcus Parkkinen <marcus.parkkinen@squeed.com>
 
 ENV ES_VERSION 3.5.0
 
